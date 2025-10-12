@@ -12,6 +12,7 @@ configuration:
          - dependabot[bot]
          - dependabot-preview[bot]
          - github-actions[bot]
+         - self-hosted-renovate-mvvmcross[bot]
       signRepos:
       - repoName: cla-approved-bots
         fileName: approvedBots.csv
